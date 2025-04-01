@@ -1,0 +1,9 @@
+{
+  "fruits": [
+    { "item": "apple", "price": 1.5 },
+    { "item": "banana", "price": 0.75 },
+    { "item": "orange", "price": 1.0 },
+    { "item": "grape", "price": 2.0 },
+    { "item": "watermelon", "price": 3.5 }
+  ]
+}
